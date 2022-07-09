@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'PengBo\'s Blog',
   domain: 'https://chill-bestseller-ecf.notion.site/0016e77ec24840e2b63908381bcce641',
-  author: 'PengBo,
+  author: 'PengBo',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
